@@ -17,14 +17,10 @@
     "jensen",
     "duesenberg",
     "packard",
-    "british-leyland"
+    "british-leyland",
+    "lada"
   ],
   "queue": [
-    {
-      "id": "lada",
-      "category": "民族工业之痛",
-      "title": "苏联拉达"
-    },
     {
       "id": "amc",
       "category": "差点成功的",
