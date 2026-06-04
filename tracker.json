@@ -18,14 +18,10 @@
     "duesenberg",
     "packard",
     "british-leyland",
-    "lada"
+    "lada",
+    "amc"
   ],
   "queue": [
-    {
-      "id": "amc",
-      "category": "差点成功的",
-      "title": "AMC美国汽车公司"
-    },
     {
       "id": "isuzu",
       "category": "差点成功的",
