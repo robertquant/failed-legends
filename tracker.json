@@ -19,14 +19,10 @@
     "packard",
     "british-leyland",
     "lada",
-    "amc"
+    "amc",
+    "isuzu"
   ],
   "queue": [
-    {
-      "id": "isuzu",
-      "category": "差点成功的",
-      "title": "五十铃乘用车"
-    },
     {
       "id": "seat",
       "category": "差点成功的",
