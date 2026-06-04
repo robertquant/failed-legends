@@ -13,14 +13,10 @@
     "delorean",
     "spyker",
     "borgward",
-    "fisker"
+    "fisker",
+    "jensen"
   ],
   "queue": [
-    {
-      "id": "jensen",
-      "category": "被巨头吃掉的",
-      "title": "Jensen詹森"
-    },
     {
       "id": "duesenberg",
       "category": "被巨头吃掉的",
