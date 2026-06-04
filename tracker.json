@@ -11,14 +11,10 @@
     "tucker",
     "chrysler-turbine",
     "delorean",
-    "spyker"
+    "spyker",
+    "borgward"
   ],
   "queue": [
-    {
-      "id": "borgward",
-      "category": "命运悲剧",
-      "title": "宝沃"
-    },
     {
       "id": "fisker",
       "category": "命运悲剧",
