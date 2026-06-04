@@ -16,14 +16,10 @@
     "fisker",
     "jensen",
     "duesenberg",
-    "packard"
+    "packard",
+    "british-leyland"
   ],
   "queue": [
-    {
-      "id": "british-leyland",
-      "category": "民族工业之痛",
-      "title": "英国利兰"
-    },
     {
       "id": "lada",
       "category": "民族工业之痛",
