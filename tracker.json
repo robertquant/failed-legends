@@ -6,14 +6,10 @@
     "vector-w8",
     "iso-grifo",
     "cizeta-v16t",
-    "saab"
+    "saab",
+    "nsu-wankel"
   ],
   "queue": [
-    {
-      "id": "nsu-wankel",
-      "category": "技术赌徒",
-      "title": "NSU汪克尔转子引擎"
-    },
     {
       "id": "tucker",
       "category": "技术赌徒",
