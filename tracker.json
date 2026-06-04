@@ -15,14 +15,10 @@
     "borgward",
     "fisker",
     "jensen",
-    "duesenberg"
+    "duesenberg",
+    "packard"
   ],
   "queue": [
-    {
-      "id": "packard",
-      "category": "被巨头吃掉的",
-      "title": "Packard帕卡德"
-    },
     {
       "id": "british-leyland",
       "category": "民族工业之痛",
