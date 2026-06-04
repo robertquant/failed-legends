@@ -8,14 +8,10 @@
     "cizeta-v16t",
     "saab",
     "nsu-wankel",
-    "tucker"
+    "tucker",
+    "chrysler-turbine"
   ],
   "queue": [
-    {
-      "id": "chrysler-turbine",
-      "category": "技术赌徒",
-      "title": "克莱斯勒涡轮车"
-    },
     {
       "id": "delorean",
       "category": "命运悲剧",
