@@ -20,13 +20,8 @@
     "british-leyland",
     "lada",
     "amc",
-    "isuzu"
+    "isuzu",
+    "seat"
   ],
-  "queue": [
-    {
-      "id": "seat",
-      "category": "差点成功的",
-      "title": "西雅特"
-    }
-  ]
+  "queue": []
 }
