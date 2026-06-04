@@ -7,14 +7,10 @@
     "iso-grifo",
     "cizeta-v16t",
     "saab",
-    "nsu-wankel"
+    "nsu-wankel",
+    "tucker"
   ],
   "queue": [
-    {
-      "id": "tucker",
-      "category": "技术赌徒",
-      "title": "Tucker塔克"
-    },
     {
       "id": "chrysler-turbine",
       "category": "技术赌徒",
