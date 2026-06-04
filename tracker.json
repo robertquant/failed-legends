@@ -14,14 +14,10 @@
     "spyker",
     "borgward",
     "fisker",
-    "jensen"
+    "jensen",
+    "duesenberg"
   ],
   "queue": [
-    {
-      "id": "duesenberg",
-      "category": "被巨头吃掉的",
-      "title": "Duesenberg杜森伯格"
-    },
     {
       "id": "packard",
       "category": "被巨头吃掉的",
