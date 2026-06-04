@@ -1,0 +1,28 @@
+{
+  "series": "失败者列传",
+  "description": "汽车行业的异类天才与失败传奇，每10分钟自动推送一篇",
+  "completed": [
+    "yamaha-ox99-11",
+    "vector-w8",
+    "iso-grifo",
+    "cizeta-v16t"
+  ],
+  "queue": [
+    {"id": "saab", "category": "技术赌徒", "title": "萨博"},
+    {"id": "nsu-wankel", "category": "技术赌徒", "title": "NSU汪克尔转子引擎"},
+    {"id": "tucker", "category": "技术赌徒", "title": "Tucker塔克"},
+    {"id": "chrysler-turbine", "category": "技术赌徒", "title": "克莱斯勒涡轮车"},
+    {"id": "delorean", "category": "命运悲剧", "title": "德罗宁"},
+    {"id": "spyker", "category": "命运悲剧", "title": "世爵"},
+    {"id": "borgward", "category": "命运悲剧", "title": "宝沃"},
+    {"id": "fisker", "category": "命运悲剧", "title": "Fisker菲斯克"},
+    {"id": "jensen", "category": "被巨头吃掉的", "title": "Jensen詹森"},
+    {"id": "duesenberg", "category": "被巨头吃掉的", "title": "Duesenberg杜森伯格"},
+    {"id": "packard", "category": "被巨头吃掉的", "title": "Packard帕卡德"},
+    {"id": "british-leyland", "category": "民族工业之痛", "title": "英国利兰"},
+    {"id": "lada", "category": "民族工业之痛", "title": "苏联拉达"},
+    {"id": "amc", "category": "差点成功的", "title": "AMC美国汽车公司"},
+    {"id": "isuzu", "category": "差点成功的", "title": "五十铃乘用车"},
+    {"id": "seat", "category": "差点成功的", "title": "西雅特"}
+  ]
+}
