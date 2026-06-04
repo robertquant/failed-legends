@@ -12,14 +12,10 @@
     "chrysler-turbine",
     "delorean",
     "spyker",
-    "borgward"
+    "borgward",
+    "fisker"
   ],
   "queue": [
-    {
-      "id": "fisker",
-      "category": "命运悲剧",
-      "title": "Fisker菲斯克"
-    },
     {
       "id": "jensen",
       "category": "被巨头吃掉的",
